@@ -60,7 +60,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Welcome to ULTIMATE DICE ROLLER</h1>
+      <h1>DICE ROLLER</h1>
 
       <div className="dice-container">
         <div className="dice-box">
